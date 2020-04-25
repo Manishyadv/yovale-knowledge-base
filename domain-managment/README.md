@@ -5,7 +5,7 @@ description: >-
   domain to your website.
 ---
 
-# Connecting your own domain.
+# Connect your own domain
 
 Summary- 
 
