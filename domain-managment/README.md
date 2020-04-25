@@ -9,6 +9,8 @@ description: >-
 
 Summary- 
 
+connecitng your domain is just a click away. If you are not sure about the below changes feel free to contact our support team anytime.
+
 In your registrar's Control Panel, change the A record and the CNAME:
 
 A record -        Host --&gt; @           points to --&gt; 34.202.63.170
