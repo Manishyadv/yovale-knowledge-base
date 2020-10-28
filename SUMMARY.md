@@ -1,10 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Introduction to Yovale](introduction-to-yovale.md)
-* [Getting Started](getting-started/README.md)
-  * [Container \(important\)](getting-started/container-important.md)
-* [Connect your own domain](domain-managment/README.md)
-  * [GoDaddy DNS records](domain-managment/godaddy-dns-records.md)
-  * [Namecheap DNS records](domain-managment/namecheap-dns-records.md)
+* [Theme global color pallet](theme-global-color-pallet.md)
+* [Theme Global Template Settings](theme-global-template-settings.md)
+* [Blog layout settings Advance](blog-layout-settings-advance.md)
+* [Performance settings](theme-performance-settings.md)
 
