@@ -24,9 +24,11 @@ Type
 
 | Type | Host | Value |
 | :--- | :--- | :--- |
-| CNAME | @ | `connect.serverlessinfra.com` |
+| CNAME | @ | `aws.serverlessinfra.com` |
 
 {% hint style="info" %}
-If you want to connect a subdomain or a domain with www in front of it, please change the Host value respectively. For example, if you want your domain to be shop.yourdomain.com make sure to use shop in Host value instead of @
+If you want to connect a subdomain or a domain with www in front of it, please change the Host value respectively. For example, if you want your domain to be `shop.yourdomain.com` make sure to use `shop` in Host value instead of `@`
 {% endhint %}
+
+
 
