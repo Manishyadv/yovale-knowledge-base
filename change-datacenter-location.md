@@ -43,6 +43,6 @@ Change the Host value as required
 | South America \(São Paulo\) | CNAME | @ | `sa-east-1.serverlessinfra.com` |
 
 {% hint style="danger" %}
-Data center location in China is not available due to some legal issues. 
+Datacenter location in China is not available due to some legal issues. 
 {% endhint %}
 
