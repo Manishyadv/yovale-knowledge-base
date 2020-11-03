@@ -14,7 +14,7 @@
 
 ## Stripe complete solution
 
-* [Settings \(Stripe complete solution\)](stripe-complete-solution/settings-stripe-complete-solution.md)
+* [Settings \(Full Stripe solution\)](stripe-complete-solution/settings-stripe-complete-solution.md)
 * [Save credit card data](stripe-complete-solution/save-credit-card-data.md)
 * [User account page for payment managment](stripe-complete-solution/user-account-page-for-payment-managment.md)
 

@@ -1,4 +1,4 @@
-# Settings \(Stripe complete solution\)
+# Settings \(Full Stripe solution\)
 
 This plugin is designed to make it easy for you to accept payments and create subscriptions from your Yovale site. Powered by Stripe, you can embed payment forms into any post or page and take payments directly from your website without making your customers leave for a 3rd party website.
 
