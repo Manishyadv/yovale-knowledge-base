@@ -1,8 +1,14 @@
 # How to connect your custom domain
 
-Yovale support both naked and subdomain like-
+{% hint style="success" %}
+Yovale support both naked and subdomain like- 
 
 https://yourdomain.com and https://www.yourdomain.com
+{% endhint %}
+
+
+
+{% embed url="https://www.loom.com/share/403ce28c53314ff297ce79b236778569" %}
 
 
 

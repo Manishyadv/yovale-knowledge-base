@@ -10,3 +10,7 @@ Cloudflare provides free Global content delivery locations and security services
 
 `It also provides many options like super caching, page reules, redirection rules, IP and country blacklisting etc.`
 
+\`\`
+
+`1 Create a cloudflare account` 
+

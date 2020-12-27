@@ -9,7 +9,7 @@ Changing location can take up to 24 hours.
 {% endhint %}
 
 {% hint style="success" %}
-Changing datacenter location is easy and requires you to change/add/replace a CNAME record in your Cloudflare DNS settings.
+Changing the datacenter location is easy and requires you to change/add/replace a CNAME record in your Cloudflare DNS settings.
 {% endhint %}
 
 List of Datacenters and required DNS records-
