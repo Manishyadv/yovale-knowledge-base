@@ -16,7 +16,7 @@ After signing up, an activation link will be sent to your email, please click on
 
 You can change your password later if required.
 
-How to login into your website
+## How to login into your website
 
 After signing up for an account, you can log in from here- [https://studio.yovale.com/login](https://studio.yovale.com/login) or from your website address like [https://studio.yovale.com/yoursitename/login](https://studio.yovale.com/yoursitename/login)
 
