@@ -26,10 +26,10 @@
 * [Save credit card data](stripe-complete-solution/save-credit-card-data.md)
 * [User account page for payment managment](stripe-complete-solution/user-account-page-for-payment-managment.md)
 
-## E-commerce store
+## 💰 E-commerce store
 
-* [Activating e-commerce store in your website](e-commerce-store/activating-e-commerce-store-in-your-website.md)
-* [How to add a Product](e-commerce-store/untitled-1.md)
+* [💵  Activating e-commerce store in your website](e-commerce-store/activating-e-commerce-store-in-your-website.md)
+* [📦 How to add a Product](e-commerce-store/untitled-1.md)
 * [Change shop theme settings](e-commerce-store/untitled-5.md)
 * [Shipping](e-commerce-store/untitled.md)
 * [How to change homepage](e-commerce-store/untitled-2.md)
