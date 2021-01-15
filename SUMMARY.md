@@ -14,6 +14,11 @@
 ## Cloudflare
 
 * [Why Cloudflare is required to setup domain](cloudflare/why-cloudflare-is-required-to-setup-domain.md)
+* [Change Nameserver](cloudflare/change-nameserver/README.md)
+  * [Google domain](https://support.google.com/domains/answer/3290309?hl%3Den)
+  * [GoDaddy](https://godaddy.com/help/change-nameservers-for-my-domains-664)
+  * [ionos](https://www.ionos.com/help/domains/dns-settings/)
+  * [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/)
 
 ## Stripe complete solution
 
@@ -35,4 +40,8 @@
 
 * [Booking and appointments](booking-and-appointment/booking-and-appointments.md)
 * [Add customer login and Signup pages for appointments and booking](booking-and-appointment/add-customer-login-and-signup-pages-for-appointments-and-booking.md)
+
+## Analytics and Google Integration
+
+* [Integrate Google Analytics and other Google services](analytics-and-google-integration/integrate-google-analytics-and-other-google-services.md)
 
